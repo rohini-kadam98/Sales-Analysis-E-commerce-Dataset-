@@ -1,6 +1,6 @@
 # Analysing-E-Commerce-Using-SQL
 For this project, I obtained the <a href="https://www.kaggle.com/datasets/benroshan/ecommerce-data">dataset from Kaggle containing sales data from an Indian E-commerce website</a> spanning from April 2018 to March 2019. <br><br>
-I have created a <a href="https://public.tableau.com/app/profile/ng.pooi.ling/viz/SalesAnalysisonE-commerceDataset/Dashboard1"> Sales Dashboard on Tableau Public</a>. The tableau had been uploaded to this repo too. Do remember to check it out!
+
 Below is the entity-relationship diagram that I created using template on MIRO application. <br><br>
 <img src="https://miro.medium.com/max/1050/1*7K1z19CMh_P0KJvJHoo1Eg.jpeg" alt="ER diagram">
 
