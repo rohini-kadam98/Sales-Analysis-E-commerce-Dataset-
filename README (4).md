@@ -11,12 +11,10 @@ Below is the entity-relationship diagram that I created using template on MIRO a
 <img src="https://miro.medium.com/max/1050/1*gHTr7kMZ8aNe63eMbo7bGQ.png" alt="Result of query 2">
 3. Find the top 10 profitable states & cities so that the company can expand its business. Determine the number of products sold and the number of customers in these top 10 profitable states & cities. <br><br>
 <img src="https://miro.medium.com/max/1050/1*Xszxeou5ZoUCqAJziQst0g.png" alt="Result of query 4">
-4. Check the monthly profitability and monthly quantity sold to see if there are patterns in the dataset. <br><br>
+5. Check the monthly profitability and monthly quantity sold to see if there are patterns in the dataset. <br><br>
 <img src="https://miro.medium.com/max/1050/1*vz2uKi-f6MJ1izhGhmkJnw.png" alt="Result of query 7">
-8. Determine the number of times that salespeople hit or failed to hit the sales target for each category. <br><br>
+6. Determine the number of times that salespeople hit or failed to hit the sales target for each category. <br><br>
 <img src="https://miro.medium.com/max/1050/1*rRcCqIJI1lmtnzJ1VSgG7Q.png" alt="Result of query 8">
-9. Find the total sales, total profit, and total quantity sold for each category and sub-category. Return the maximum cost and maximum price for each sub-category too. <br><br>
-<img src="https://miro.medium.com/max/1050/1*Wk0H92Vj6kVmRp-NL18wiQ.png" alt="Result of query 9">
 
 # Summary 
 For the complete code explanation & analysis, please check out <a href="https://jadangpooiling.medium.com/building-sql-project-with-e-commerce-dataset-from-kaggle-3c678d44fc0a">my Medium article</a>. Below are summary of the analysis.
