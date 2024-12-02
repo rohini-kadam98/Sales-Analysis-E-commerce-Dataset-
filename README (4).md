@@ -11,11 +11,7 @@ Below is the entity-relationship diagram that I created using template on MIRO a
 <img src="https://miro.medium.com/max/1050/1*gHTr7kMZ8aNe63eMbo7bGQ.png" alt="Result of query 2">
 3. Find the top 10 profitable states & cities so that the company can expand its business. Determine the number of products sold and the number of customers in these top 10 profitable states & cities. <br><br>
 <img src="https://miro.medium.com/max/1050/1*Xszxeou5ZoUCqAJziQst0g.png" alt="Result of query 4">
-5. Display the details (in terms of “order_date”, “order_id”, “State”, and “CustomerName”) for the first order in each state. Order the result by “order_id”. <br><br>
-<img src="https://miro.medium.com/max/1050/1*NmE-6LAkm0BelRbClc_NBA.png" alt="Result of query 5">
-6. Determine the number of orders (in the form of a histogram) and sales for different days of the week. <br><br>
-<img src="https://miro.medium.com/max/1050/1*EDDVYPQ_158nlyNSkfgFiQ.png" alt="Result of query 6">
-7. Check the monthly profitability and monthly quantity sold to see if there are patterns in the dataset. <br><br>
+4. Check the monthly profitability and monthly quantity sold to see if there are patterns in the dataset. <br><br>
 <img src="https://miro.medium.com/max/1050/1*vz2uKi-f6MJ1izhGhmkJnw.png" alt="Result of query 7">
 8. Determine the number of times that salespeople hit or failed to hit the sales target for each category. <br><br>
 <img src="https://miro.medium.com/max/1050/1*rRcCqIJI1lmtnzJ1VSgG7Q.png" alt="Result of query 8">
