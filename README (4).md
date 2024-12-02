@@ -11,6 +11,8 @@ Below is the entity-relationship diagram that I created using template on MIRO a
 <img src="https://miro.medium.com/max/1050/1*gHTr7kMZ8aNe63eMbo7bGQ.png" alt="Result of query 2">
 3. Find the top 10 profitable states & cities so that the company can expand its business. Determine the number of products sold and the number of customers in these top 10 profitable states & cities. <br><br>
 <img src="https://miro.medium.com/max/1050/1*Xszxeou5ZoUCqAJziQst0g.png" alt="Result of query 4">
+4. Determine the number of orders (in the form of a histogram) and sales for different days of the week. <br><br>
+<img src="https://miro.medium.com/max/1050/1*EDDVYPQ_158nlyNSkfgFiQ.png" alt="Result of query 6">
 5. Check the monthly profitability and monthly quantity sold to see if there are patterns in the dataset. <br><br>
 <img src="https://miro.medium.com/max/1050/1*vz2uKi-f6MJ1izhGhmkJnw.png" alt="Result of query 7">
 6. Determine the number of times that salespeople hit or failed to hit the sales target for each category. <br><br>
