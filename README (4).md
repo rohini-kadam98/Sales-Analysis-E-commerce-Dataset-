@@ -9,9 +9,7 @@ Below is the entity-relationship diagram that I created using template on MIRO a
 <img src="https://miro.medium.com/max/1050/1*4tAFpv01no4Xxy32hX-hUQ.png" alt="Result of query 1">
 2. Find the number of orders, customers, cities, and states. <br><br>
 <img src="https://miro.medium.com/max/1050/1*gHTr7kMZ8aNe63eMbo7bGQ.png" alt="Result of query 2">
-3. Find the new customers who made purchases in the year 2019. Only shows the top 5 new customers and their respective cities and states. Order the result by the amount they spent. <br><br>
-<img src="https://miro.medium.com/max/1050/1*FV3kM8lMEHjWFEG1ZFjlrA.png" alt="Result of query 3">
-4. Find the top 10 profitable states & cities so that the company can expand its business. Determine the number of products sold and the number of customers in these top 10 profitable states & cities. <br><br>
+3. Find the top 10 profitable states & cities so that the company can expand its business. Determine the number of products sold and the number of customers in these top 10 profitable states & cities. <br><br>
 <img src="https://miro.medium.com/max/1050/1*Xszxeou5ZoUCqAJziQst0g.png" alt="Result of query 4">
 5. Display the details (in terms of “order_date”, “order_id”, “State”, and “CustomerName”) for the first order in each state. Order the result by “order_id”. <br><br>
 <img src="https://miro.medium.com/max/1050/1*NmE-6LAkm0BelRbClc_NBA.png" alt="Result of query 5">
